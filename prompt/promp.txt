@@ -1,0 +1,25 @@
+Gere um código em Python que produza uma apresentação em formato de pagima html, com as seguintes informações:
+
+Entradas:
+
+1 - Coordenadas do ponto geografico: Latitude: 21°44'21.3"S Longitude: 48°06'21.4"W.
+2 - Altura do obstaculo: 1,65m.
+3 - Orientação do obstaculo: Paralelo ao eixo Leste/Oeste.
+4 - Direção da sombra: Projetada para o lado Sul.
+5 - Inclua informações de personalização:
+      Cabeçalho: 
+          "Soluções Solares LTDA
+          Entregando soluções em energia solar desde 2018
+        📱 WhatsApp: 16 99630-2896"
+      Rodapé: 
+          "Este relatório é parte integrante do nosso plano de manutenção - Copyright by Soluções Solares LTDA"
+
+Saidas / Seções da página:
+
+A - "1 - Dados de Entrada": Mostrar os dados que foram disponibilizados para a execução dos calculos.
+B - "2 - Resultados": Qual a distância máxima da sombra que um obstaculo projeta? Durante as 4 estações do ano:  Solstício de Verão, Solstício de Inverno, Equinócio de Primavera e Equinócio de Outono.
+C - "3 - Visualizações e Gráficos": Mostrar uma análise completa das sombras sazonais incluindo comparações, variações e diagrama esquemático. Um gráfico de barras para o comprimento das sombras sazonais, com uma barra mostrando o comprimento do obstaculo e outra a projeção da sombra dele (lado a lado). Um gráfico com diagrama esquematico mostando o obstaculo e as sobras projetadas sazonalmente, mostrando também o angulo de inclinação do sol. Um grafico com a variação sazonal das sombras (vista polar). Adeguar o tamanho das fontes para representar os 4 graficos em formato 2 linhas por 2 colunas.  
+D - "4 - Conclusão": Resumo dos achados e direções que o documento encontrou.
+E - "5 - Metodologia de Cálculo": Mostrar os cálculos utilizados (Cálculo da Declinação Solar, Ângulo Horário Solar, Elevação Solar e Comprimento da Sombra).
+F - "6 - Fontes e Refencias": Listar livros, artigos ou sites que foram utilizados para produzir este documento. 
+G - "7 - Presmissas e Restrições": Citar condições de validade dos resultados.
